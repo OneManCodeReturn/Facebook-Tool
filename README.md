@@ -1,4 +1,3 @@
-# 🚀 Meta-Hunter
 
 Meta-Hunter is a powerful Termux-based script for cloning Facebook accounts using advanced and updated methods.  
 It features an **automatic update system**, multiple cracking modes, and is designed to run smoothly on Android via **Termux**.
